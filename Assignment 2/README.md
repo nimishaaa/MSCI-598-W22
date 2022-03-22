@@ -1,7 +1,7 @@
 
 Grid Search Score - 0.8644867414999187
 
-| Stopwords | removed	text features | Accuracy (test set) |
+| stopwords | removed	text features | accuracy (test set) |
 |---|---|---|
 | yes | unigrams | 0.8065973395402385 |
 | yes | unigrams+bigrams | 0.8232283415299521 |
